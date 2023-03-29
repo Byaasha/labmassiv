@@ -19,4 +19,19 @@ Console.WriteLine($"Avg: {avg}");
 Console.WriteLine($"Mul: {product}");
 Console.ReadKey();
 Console.WriteLine();
-  
+
+
+Console.WriteLine("Привет дядя Дима!"); 
+Console.WriteLine("Работа на 5");
+double[,] mass2 = new double[2, 3]; 
+Console.WriteLine(1 + "кофицент первого уравнения");
+mass2[0, 0] = Convert.ToInt32(Console.ReadLine()); Console.WriteLine(2 + "кофицент первого уравнения");
+mass2[0, 1] = Convert.ToInt32(Console.ReadLine()); Console.WriteLine("ответ первого уравнения");
+mass2[0, 2] = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine(1 + "кофицент второго уравнения"); mass2[1, 0] = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine(2 + "кофицент второго уравнения"); mass2[1, 1] = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("ответ второго уравнения"); mass2[1, 2] = Convert.ToInt32(Console.ReadLine());
+double x1 = ((mass2[0, 2] * mass2[1, 1]) - (mass2[1, 2])) / ((mass2[0, 0] * mass2[1, 1]) - (mass2[0, 1] * mass2[1, 0])); 
+double x2 = (mass2[0, 0] * mass2[1, 2]) - (mass2[0, 2] * mass2[1, 0]) / (mass2[0, 0] * mass2[1, 1] - mass2[0, 1] * mass2[1, 0]);
+Console.WriteLine("x1=" + x1 + " x2=" + x2); 
+Console.ReadKey();
