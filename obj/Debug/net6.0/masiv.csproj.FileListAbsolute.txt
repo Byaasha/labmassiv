@@ -1,0 +1,15 @@
+C:\Users\Информатика\source\repos\masiv\masiv\bin\Debug\net6.0\masiv.exe
+C:\Users\Информатика\source\repos\masiv\masiv\bin\Debug\net6.0\masiv.deps.json
+C:\Users\Информатика\source\repos\masiv\masiv\bin\Debug\net6.0\masiv.runtimeconfig.json
+C:\Users\Информатика\source\repos\masiv\masiv\bin\Debug\net6.0\masiv.dll
+C:\Users\Информатика\source\repos\masiv\masiv\bin\Debug\net6.0\masiv.pdb
+C:\Users\Информатика\source\repos\masiv\masiv\obj\Debug\net6.0\masiv.csproj.AssemblyReference.cache
+C:\Users\Информатика\source\repos\masiv\masiv\obj\Debug\net6.0\masiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Информатика\source\repos\masiv\masiv\obj\Debug\net6.0\masiv.AssemblyInfoInputs.cache
+C:\Users\Информатика\source\repos\masiv\masiv\obj\Debug\net6.0\masiv.AssemblyInfo.cs
+C:\Users\Информатика\source\repos\masiv\masiv\obj\Debug\net6.0\masiv.csproj.CoreCompileInputs.cache
+C:\Users\Информатика\source\repos\masiv\masiv\obj\Debug\net6.0\masiv.dll
+C:\Users\Информатика\source\repos\masiv\masiv\obj\Debug\net6.0\refint\masiv.dll
+C:\Users\Информатика\source\repos\masiv\masiv\obj\Debug\net6.0\masiv.pdb
+C:\Users\Информатика\source\repos\masiv\masiv\obj\Debug\net6.0\masiv.genruntimeconfig.cache
+C:\Users\Информатика\source\repos\masiv\masiv\obj\Debug\net6.0\ref\masiv.dll
